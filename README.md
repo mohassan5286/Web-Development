@@ -25,5 +25,5 @@ This project presents a comprehensive calculator featuring a multitude of functi
 5. Initiate the backend execution before running the frontend.
 6. Launch the front end using the command "npm run serve."
 
-## HOW TO USE APPLICATION:
+### HOW TO USE APPLICATION:
 <u>https://drive.google.com/drive/folders/13ZgN5x4j2bfR3j7XUH7romC16ZNwk8N3?usp=sharing</u>
