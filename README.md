@@ -27,3 +27,15 @@ This project presents a comprehensive calculator featuring a multitude of functi
 
 ### HOW TO USE APPLICATION:
 <u>https://drive.google.com/drive/folders/13ZgN5x4j2bfR3j7XUH7romC16ZNwk8N3?usp=sharing</u>
+
+## 3- Gmail Application
+### HOW TO USE:
+1. Verify the presence of Node.js on your system.
+2. Refer to the instructions presented in the video located at <u>https://youtu.be/oZ9zlS5V5WU?si=InTS7mkzr9HYSqLQ</u> to incorporate Bootstrap into your Vue project.
+3. Utilize the command "npm i serve" to install the requisite modules.
+4. Install a Spring Boot application using Maven as the build tool.
+5. Replace the existing "src" folder in your Spring Boot application with the "src" folder found in the "back end" directory.
+6. Prioritize running the backend application before initiating the front-end application.
+
+### HOW TO USE APPLICATION:
+<u>https://drive.google.com/drive/folders/1xHI5ohSz9MG5yRFSGJTcDuUUsp72bYTw?usp=sharing</u>
