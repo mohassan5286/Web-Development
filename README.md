@@ -12,3 +12,6 @@ This project presents a comprehensive calculator featuring a multitude of functi
 5. Replace the existing "src" folder in your Spring Boot application with the "src" folder found in the "back end" directory.
 6. Follow the instructions provided in the video at <u>https://youtu.be/oZ9zlS5V5WU?si=InTS7mkzr9HYSqLQ</u> to install Bootstrap in your Vue project.
 7. Prioritize running the backend application before initiating the front-end application.
+
+### HOW TO USE APPLICATION:
+<u>https://drive.google.com/drive/folders/1v_TO6CL0pORZgKlpmLIj83jGe7su4PvR?usp=sharing</u>
