@@ -46,7 +46,7 @@ This project presents a comprehensive calculator featuring a multitude of functi
 
 <br>
 
-## 3- Producer-Consumer Simulation 
+## 4- Producer-Consumer Simulation 
 ### HOW TO USE:
 
 ### Video:
