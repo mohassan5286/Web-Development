@@ -1,10 +1,10 @@
 # Web-Development
 This repository houses a collection of web applications that I have developed.
 
+<br>
+
 ## 1- Calculator Application
 This project presents a comprehensive calculator featuring a multitude of functionalities. Its design is thoughtfully crafted, providing a visually appealing interface. Additionally, the calculator supports both dark and light modes, enhancing user customization and adaptability.
-
-<br>
 
 ### HOW TO USE:
 1. Ensure that Node.js is installed on your system.
