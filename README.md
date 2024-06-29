@@ -54,3 +54,8 @@ This project presents a comprehensive calculator featuring a multitude of functi
 ### Video:
 
 <br>
+
+# Studiando 
+### HOW TO USE:
+
+## video link
