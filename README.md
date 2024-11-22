@@ -81,3 +81,19 @@ This project simulates the classic Producer-Consumer problem, demonstrating how 
 [Watch the demo](https://drive.google.com/file/d/1epcko_llSkC5qO4mziwNRHBVXdKPDuMV/view?usp=sharing)
 
 ---
+
+## 5. Signal Flow Graphs
+
+This project works with **Signal Flow Graphs**, which are used for system analysis and control systems.
+
+### How to Use:
+1. Ensure **Node.js** is installed on your system.
+2. Install the necessary modules by running the command:  
+   `npm i serve`
+3. Start the frontend application with:  
+   `npm run serve`
+
+### Demo Video:
+(Coming soon)
+
+---
