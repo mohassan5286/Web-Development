@@ -1,61 +1,83 @@
-# Web-Development
-This repository houses a collection of web applications that I have developed.
+# Web Development Projects
 
-<br>
+This repository houses a collection of web applications I have developed. Below you'll find details on each project, along with installation and usage instructions.
 
-## 1- Calculator Application
-This project presents a comprehensive calculator featuring a multitude of functionalities. Its design is thoughtfully crafted, providing a visually appealing interface. Additionally, the calculator supports both dark and light modes, enhancing user customization and adaptability.
+---
 
-### HOW TO USE:
-1. Ensure that Node.js is installed on your system.
-2. Create a Vue application using the appropriate commands.
-3. Replace the existing "src" folder in your Vue application with the "src" folder located in the "front end" directory.
-4. Install a Spring Boot application using Maven as the build tool.
-5. Replace the existing "src" folder in your Spring Boot application with the "src" folder found in the "back end" directory.
-6. Follow the instructions provided in the video at <u>https://youtu.be/oZ9zlS5V5WU?si=InTS7mkzr9HYSqLQ</u> to install Bootstrap in your Vue project.
-7. Prioritize running the backend application before initiating the front-end application.
+## 1. Calculator Application
 
-### Video:
-<u>https://drive.google.com/drive/folders/1v_TO6CL0pORZgKlpmLIj83jGe7su4PvR?usp=sharing</u>
+A fully-featured calculator with a clean and visually appealing design. This application supports both light and dark modes, providing users with customization options.
 
-<br>
+### How to Use:
+1. Ensure **Node.js** is installed on your system.
+2. Create a new Vue application using the appropriate commands.
+3. Replace the existing **"src"** folder in your Vue application with the **"src"** folder located in the **"front end"** directory.
+4. Install the Spring Boot application using Maven as the build tool.
+5. Replace the **"src"** folder in your Spring Boot application with the **"src"** folder from the **"back end"** directory.
+6. Follow the video instructions to install Bootstrap in your Vue project:  
+   [Install Bootstrap Video](https://youtu.be/oZ9zlS5V5WU?si=InTS7mkzr9HYSqLQ)
+7. Start by running the backend application before the frontend application.
 
-## 2- Paint Application
-### HOW TO USE:
-1. Verify the presence of Node.js on your system.
-2. Install Konva by executing the command "npm install konva."
-3. Refer to the instructions presented in the video located at <u>https://youtu.be/oZ9zlS5V5WU?si=InTS7mkzr9HYSqLQ</u> to incorporate Bootstrap into your Vue project.
-4. Utilize the command "npm i serve" to install the requisite modules.
-5. Initiate the backend execution before running the frontend.
-6. Launch the front end using the command "npm run serve."
+### Demo Video:
+[Watch the demo](https://drive.google.com/drive/folders/1v_TO6CL0pORZgKlpmLIj83jGe7su4PvR?usp=sharing)
 
-### Video:
-<u>https://drive.google.com/drive/folders/13ZgN5x4j2bfR3j7XUH7romC16ZNwk8N3?usp=sharing</u>
+---
 
-<br>
+## 2. Paint Application
 
-## 3- Gmail Application
-### HOW TO USE:
-1. Verify the presence of Node.js on your system.
-2. Refer to the instructions presented in the video located at <u>https://youtu.be/oZ9zlS5V5WU?si=InTS7mkzr9HYSqLQ</u> to incorporate Bootstrap into your Vue project.
-3. Utilize the command "npm i serve" to install the requisite modules.
-4. Install a Spring Boot application using Maven as the build tool.
-5. Replace the existing "src" folder in your Spring Boot application with the "src" folder found in the "back end" directory.
-6. Prioritize running the backend application before initiating the front-end application.
+A fun and interactive painting application that allows users to draw and create artwork on a digital canvas.
 
-### Video:
-<u>https://drive.google.com/drive/folders/1xHI5ohSz9MG5yRFSGJTcDuUUsp72bYTw?usp=sharing</u>
+### How to Use:
+1. Verify **Node.js** is installed on your system.
+2. Install **Konva** by running the command:  
+   `npm install konva`
+3. Follow the video instructions to integrate Bootstrap into your Vue project:  
+   [Install Bootstrap Video](https://youtu.be/oZ9zlS5V5WU?si=InTS7mkzr9HYSqLQ)
+4. Install necessary modules using the command:  
+   `npm i serve`
+5. Start by running the backend before launching the frontend.
+6. To run the frontend, use the command:  
+   `npm run serve`
 
-<br>
+### Demo Video:
+[Watch the demo](https://drive.google.com/drive/folders/13ZgN5x4j2bfR3j7XUH7romC16ZNwk8N3?usp=sharing)
 
-## 4- Producer-Consumer Simulation 
-### HOW TO USE:
+---
 
-### Video:
+## 3. Gmail Application
 
-<br>
+A basic Gmail-like email application for sending and receiving emails, built using Vue.js for the frontend and Spring Boot for the backend.
 
-## 5- Studiando 
-### HOW TO USE:
+### How to Use:
+1. Ensure **Node.js** is installed on your system.
+2. Follow the video instructions to integrate Bootstrap into your Vue project:  
+   [Install Bootstrap Video](https://youtu.be/oZ9zlS5V5WU?si=InTS7mkzr9HYSqLQ)
+3. Install necessary modules using:  
+   `npm i serve`
+4. Set up the Spring Boot application using Maven as the build tool.
+5. Replace the **"src"** folder in the Spring Boot project with the **"src"** folder from the **"back end"** directory.
+6. Run the backend application first, then start the frontend application.
 
-### video
+### Demo Video:
+[Watch the demo](https://drive.google.com/drive/folders/1xHI5ohSz9MG5yRFSGJTcDuUUsp72bYTw?usp=sharing)
+
+---
+
+## 4. Producer-Consumer Simulation
+
+This project simulates the classic Producer-Consumer problem, demonstrating how multiple processes interact with a shared resource.
+
+### How to Use:
+1. Verify **Node.js** is installed on your system.
+2. Follow the video instructions to integrate Bootstrap into your Vue project:  
+   [Install Bootstrap Video](https://youtu.be/oZ9zlS5V5WU?si=InTS7mkzr9HYSqLQ)
+3. Install necessary modules using:  
+   `npm i serve`
+4. Set up the Spring Boot application using Maven.
+5. Replace the **"src"** folder in your Spring Boot project with the **"src"** folder from the **"back end"** directory.
+6. Run the backend application first, followed by the frontend application.
+
+### Demo Video:
+[Watch the demo](https://drive.google.com/file/d/1epcko_llSkC5qO4mziwNRHBVXdKPDuMV/view?usp=sharing)
+
+---
